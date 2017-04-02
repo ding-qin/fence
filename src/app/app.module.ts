@@ -14,11 +14,11 @@ import { AuthService } from './auth.service';
 import { AppRoutingModule } from './app-routing.module';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBedeSFOyqLK0Nfq7Yc7q9io165CtMyuLc",
-  authDomain: "sth-yyt.firebaseapp.com",
-  databaseURL: "https://sth-yyt.firebaseio.com",
-  storageBucket: "sth-yyt.appspot.com",
-  messagingSenderId: "60901827240"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 
 const firebaseAuthConfig = {
