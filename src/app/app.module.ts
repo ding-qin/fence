@@ -34,7 +34,7 @@ const firebaseAuthConfig = {
     BrowserModule,
     FormsModule,
     HttpModule,
-    FlexLayoutModule.forRoot(),
+    FlexLayoutModule,
     MaterialModule,
     AngularFireModule.initializeApp(firebaseConfig, firebaseAuthConfig),
 
